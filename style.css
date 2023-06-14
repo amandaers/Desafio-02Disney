@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Lily+Script+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor:  url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAfwAAAOqAAAHqgAAB6sAAA//AAAd/wAAGf8AAAG9AAABtAAAAYAAAAGAAAABgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////gn///4B///8Af//+AD///AA///wAH//4AB//8AAf//AAH//5AB///wA///8A////D////w////8P////n////////////////////////////////////////////8='), auto;
+}
+header{
+    background-color: #1E1E1E;;
+    font-family:"Lily Script One",sans-serif;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size:35px;
+    text-shadow: rgb(82, 98, 140) 2px 2px 1px;
+}
+a:hover {
+    color: rgb(34, 81, 162);
+    text-shadow: rgb(25, 32, 48) 2px 2px 1px;
+    transition: all 0.3s ease;
+}
+li{
+    display: inline-block;
+    padding: 100px;
+}
+ul{
+    text-align: center;
+}
+.banner{
+    width: 100%;
+}
+main section{
+    text-align: center;
+    margin-bottom: 100px;
+}
+figure{
+    display: inline-block;
+    margin-left:53px;
+    margin-top: 64px;
+    margin-bottom: 70px;
+}
+figure img{
+    width: 450px;
+}
+footer{
+    background-color:  #1E1E1E;
+    color: #fff;  
+    align-items: center;
+}
+footer p{
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Actor", sans-serif;
+}
+
+.rodape img{
+    width: 81px;
+}
+#disney{
+    width: 160px;
+}
+
+

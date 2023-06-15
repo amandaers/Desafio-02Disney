@@ -47,19 +47,18 @@ figure img{
 footer{
     background-color:  #1E1E1E;
     color: #fff;  
-    align-items: center;
+    text-align: center;
 }
-footer p{
+p{
     display: inline-block;
-    font-size: 25px;
+    font-size: 20px;
     font-family: "Actor", sans-serif;
+    padding: 100px 0;
 }
-
-.rodape img{
-    width: 81px;
+.linksNav{
+    display: inline-block;
+    height: 15%;
 }
-#disney{
-    width: 160px;
+.link{
+    margin: 10px;
 }
-
-
